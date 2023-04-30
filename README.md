@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/10274002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10274002" height="30" width="40" /></a>
 <a href="https://fb.com/arkfreestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkfreestyle" height="30" width="40" /></a>
 <a href="https://instagram.com/arkfreestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkfreestyle" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arkfreestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arkfreestyle" height="30" width="40" /></a>
+<a href="https://www.youtube.com/arkfreestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arkfreestyle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arkfreestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arkfreestyle" height="30" width="40" /></a>
 </p>
 
@@ -63,7 +63,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkfreestyle&show_icons=true&locale=en&layout=compact" alt="arkfreestyle" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkfreestyle&show_icons=true&locale=en" alt="arkfreestyle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkfreestyle&show_icons=true&locale=en" alt="arkfreestyle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkfreestyle&" alt="arkfreestyle" /></p>
 

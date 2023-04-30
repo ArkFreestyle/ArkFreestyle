@@ -61,7 +61,7 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkfreestyle&show_icons=true&locale=en&layout=compact" alt="arkfreestyle" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkfreestyle&show_icons=true&locale=en&layout=compact" alt="arkfreestyle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkfreestyle&show_icons=true&locale=en" alt="arkfreestyle" /></p>
 
